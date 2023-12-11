@@ -1,2 +1,2 @@
 # RNAseq_pipeline
-Data preprocessing steps
+From Fastqc to count matrix
